@@ -1,0 +1,1 @@
+<h1>Bienvenido a la Tienda Virtual</h1>
